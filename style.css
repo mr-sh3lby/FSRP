@@ -17,7 +17,7 @@ div {
 
 /* MAIN CONTAINER  */
 .bg-image {
-    background-image: url('/media/bg.jpg');
+    background-image: url('Media/bg.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
@@ -68,7 +68,7 @@ div {
 .your-section-with-shooting-stars {
     position: relative;
     background-color: #000;
-    background: url('/media/stars.jpg'); 
+    background: url('Media/stars.jpg'); 
     animation: meteorShower 90s linear infinite;
     color: #fff;
     padding: 20px;
